@@ -6,7 +6,7 @@ Suite à une réorientation dans un domaine qui me plaît, me voici au début de
 - ⛏️ Auparavant, j'ai fait mes études dans la comptabilité jusqu'à obtenir un BTS et y ai aussi travaillé. J'ai aussi exercé dans le domaine du bâtiment (plomberie, électricité, maçonnerie générale) ainsi que dans la livraison et la manutention entre autres.
 - ✨ Passionnée par cet environnement du web je continu de m'instruire afin de gagner en compétence.
 
-Je travaille avec :
+### Je travaille avec :
 - HTML/CSS
 - JavaScript
 - MongoDB
