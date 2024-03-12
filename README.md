@@ -18,6 +18,3 @@ Suite à une réorientation dans un domaine qui me plaît, me voici enthousiaste
 - JS
 - React
 - NodeJS
-
-#### Pour me joindre :
-- 
